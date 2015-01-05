@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tab1Layout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#eee"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="40dip"
+        
+        android:text="Tres en Raya"
+        android:textSize="25sp" />
+
+    <TableLayout
+        android:layout_width="323dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="20dp"
+        android:padding="10dip" >
+
+        <TableRow
+            android:id="@+id/tableRow1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <Button
+                android:id="@+id/A1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/casilla_vacia"
+                android:onClick="pulsax1"
+                android:text="     " />
+
+            <Button
+                android:id="@+id/B1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/casilla_vacia"
+                android:onClick="pulsax2"
+                android:text="     " />
+
+            <Button
+                android:id="@+id/C1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/casilla_vacia"
+                android:onClick="pulsax3"
+                android:text="     " />
+
+            <Button
+                android:id="@+id/D1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/casilla_vacia"
+                android:onClick="pulsax4"
+                android:text="     " />
+
+            <Button
+                android:id="@+id/E1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/casilla_vacia"
+                android:onClick="pulsax5"
+                android:text="     " />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <Button
+                android:id="@+id/A2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/casilla_vacia"
+                android:onClick="pulsax6"
+                android:text="   " />
+
+            <Button
+                android:id="@+id/B2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/casilla_vacia"
+                android:onClick="pulsax7"
+                android:text="   " />
+
+            <Button
+                android:id="@+id/C2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/casilla_vacia"
+                android:onClick="pulsax8"
+                android:text="   " />
+
+            <Button
+                android:id="@+id/D2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/casilla_vacia"
+                android:onClick="pulsax9"
+                android:text="   " />
+
+            <Button
+                android:id="@+id/E2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/casilla_vacia"
+                android:onClick="pulsax10"
+                android:text="   " />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <Button
+                android:id="@+id/A3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/casilla_vacia"
+                android:onClick="pulsax11"
+                android:text="   " />
+
+            <Button
+                android:id="@+id/B3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/casilla_vacia"
+                android:onClick="pulsax12"
+                android:text="   " />
+
+            <Button
+                android:id="@+id/C3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/casilla_vacia"
+                android:onClick="pulsax13"
+                android:text="   " />
+
+            <Button
+                android:id="@+id/D3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/casilla_vacia"
+                android:onClick="pulsax14"
+                android:text="   " />
+
+            <Button
+                android:id="@+id/E3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/casilla_vacia"
+                android:onClick="pulsax15"
+                android:text="   " />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <Button
+                android:id="@+id/A4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/casilla_vacia"
+                android:onClick="pulsax16"
+                android:text="   " />
+
+            <Button
+                android:id="@+id/B4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/casilla_vacia"
+                android:onClick="pulsax17"
+                android:text="   " />
+
+            <Button
+                android:id="@+id/C4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/casilla_vacia"
+                android:onClick="pulsax18"
+                android:text="   " />
+
+            <Button
+                android:id="@+id/D4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/casilla_vacia"
+                android:onClick="pulsax19"
+                android:text="   " />
+
+            <Button
+                android:id="@+id/E4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/casilla_vacia"
+                android:onClick="pulsax20"
+                android:text="   " />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <Button
+                android:id="@+id/A5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/casilla_vacia"
+                android:onClick="pulsax21"
+                android:text="   " />
+
+            <Button
+                android:id="@+id/B5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/casilla_vacia"
+                android:onClick="pulsax22"
+                android:text="   " />
+
+            <Button
+                android:id="@+id/C5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/casilla_vacia"
+                android:onClick="pulsax23"
+                android:text="   " />
+
+            <Button
+                android:id="@+id/D5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/casilla_vacia"
+                android:onClick="pulsax24"
+                android:text="   " />
+
+            <Button
+                android:id="@+id/E5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/casilla_vacia"
+                android:onClick="pulsax25"
+                android:text="   " />
+        </TableRow>
+    </TableLayout>
+
+    <Button
+        android:id="@+id/xborrar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="pulsaxborrar"
+        android:layout_gravity="center"
+        android:text="@string/reiniciar" />
+
+    <DigitalClock
+        android:id="@+id/digitalClock1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:padding="20dip"
+        android:text="DigitalClock" />
+
+    <TextView
+        android:id="@+id/juegoFin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/juegoAcabado"
+        android:visibility="invisible" />
+
+</LinearLayout>

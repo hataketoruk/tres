@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_name">TresEnRayaFinal</string>
+    <string name="hello_world">TresEnRaya</string>
+    <string name="menu_settings">Configurar</string>
+    <string name="title_activity_tes">Tres en Raya</string>
+    <string name="jugar_boton">Jugar 2 Jugadores</string>
+    <string name="configurar">Configurar</string>
+    <string name="acercade">Acerca De</string>
+    <string name="salir">Salir</string>
+    <string name="reiniciar">Volver a Empezar</string>
+    <string name="cruz">Ganan las Cruces</string>
+    <string name="juegoAcabado">ES</string>
+    <string name="circulo">Ganan los circulos</string>
+    <string name="jugar_boton_cpu">Jugar CPU</string>
+</resources>

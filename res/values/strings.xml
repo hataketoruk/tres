@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_name">TresEnRayaFinal</string>
+    <string name="hello_world">Tic-Tac-Toe</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_tes">Tic-Tac-Toe</string>
+    <string name="jugar_boton">Play 2 Players</string>
+    <string name="configurar">Settings</string>
+    <string name="acercade">About</string>
+    <string name="salir">Exit</string>
+    <string name="reiniciar">Start Over</string>
+    <string name="cruz">Win the Crosses</string>
+    <string name="juegoAcabado">EN</string>
+    <string name="circulo">Win the Circles</string>
+    <string name="jugar_boton_cpu">Play CPU</string>
+</resources>
